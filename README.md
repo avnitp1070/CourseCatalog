@@ -16,11 +16,10 @@ Easy navigation with a clean and intuitive user interface.
 
 Technologies Used:
 
-React.js
-
-JavaScript (ES6+)
-CSS (with Tailwind CSS for styling)
-API integration for fetching course data
+React.js,
+JavaScript (ES6+),
+CSS (with Tailwind CSS for styling),
+API integration for fetching course data,
 React Toastify for notifications
 
 
